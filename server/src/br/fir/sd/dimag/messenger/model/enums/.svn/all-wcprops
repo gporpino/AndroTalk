@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5/trunk/server/src/br/fir/sd/dimag/messenger/model/enums
+END
+UserStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/server/src/br/fir/sd/dimag/messenger/model/enums/UserStatus.java
+END
+ChatStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/server/src/br/fir/sd/dimag/messenger/model/enums/ChatStatus.java
+END
+MessageStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/server/src/br/fir/sd/dimag/messenger/model/enums/MessageStatus.java
+END

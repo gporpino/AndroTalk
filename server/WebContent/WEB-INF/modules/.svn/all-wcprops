@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5/trunk/server/WebContent/WEB-INF/modules
+END
+scripting-1.41.mar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/server/WebContent/WEB-INF/modules/scripting-1.41.mar
+END
+addressing-1.41.mar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/server/WebContent/WEB-INF/modules/addressing-1.41.mar
+END
+modules.list
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/server/WebContent/WEB-INF/modules/modules.list
+END
+mex-1.41.mar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/server/WebContent/WEB-INF/modules/mex-1.41.mar
+END
+soapmonitor-1.41.mar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/server/WebContent/WEB-INF/modules/soapmonitor-1.41.mar
+END
+ping-1.41.mar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/server/WebContent/WEB-INF/modules/ping-1.41.mar
+END
+smtpfault.mar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/server/WebContent/WEB-INF/modules/smtpfault.mar
+END

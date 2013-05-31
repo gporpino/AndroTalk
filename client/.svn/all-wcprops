@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/15/trunk/client
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/client/default.properties
+END
+axis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/12/trunk/client/axis.jar
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/12/trunk/client/.classpath
+END
+commons-httpclient-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/client/commons-httpclient-3.1.jar
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/client/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11/trunk/client/AndroidManifest.xml
+END
+ksoap2-android-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/client/ksoap2-android-2.2.jar
+END
+ksoap2-j2se-full-2.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/client/ksoap2-j2se-full-2.1.2.jar
+END
+ksoap2-android-2.2-javadoc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/client/ksoap2-android-2.2-javadoc.jar
+END
+axis2-kernel-1.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunk/client/axis2-kernel-1.4.1.jar
+END

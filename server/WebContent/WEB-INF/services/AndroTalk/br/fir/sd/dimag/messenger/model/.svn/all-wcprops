@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/server/WebContent/WEB-INF/services/AndroTalk/br/fir/sd/dimag/messenger/model
+END
+User.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/server/WebContent/WEB-INF/services/AndroTalk/br/fir/sd/dimag/messenger/model/User.class
+END
+Chat.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5/trunk/server/WebContent/WEB-INF/services/AndroTalk/br/fir/sd/dimag/messenger/model/Chat.class
+END
+Message.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/server/WebContent/WEB-INF/services/AndroTalk/br/fir/sd/dimag/messenger/model/Message.class
+END
